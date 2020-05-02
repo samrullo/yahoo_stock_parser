@@ -1,0 +1,5 @@
+venv
+.pasw
+build
+dist
+*egg-info
