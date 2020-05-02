@@ -1,0 +1,2631 @@
+2019-06-09 20:10:02 INFO     The index of div is 11 and sub_div is 68
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:daily_changing
+2019-06-09 20:10:02 INFO     Initial record as list:['daily_changing']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'daily_changing'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:daily_changing
+2019-06-09 20:10:02 INFO     Raw record:更新日付：2019.06.07
+2019-06-09 20:10:02 INFO     Initial record as list:['更新日付：2019.06.07']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'更新日付：2019.06.07'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:更新日付：2019.06.07
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+医薬品
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '医薬品', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'医薬品'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:医薬品
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4151
+協和キリン
+協和発酵キリン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4151', '協和キリン', '協和発酵キリン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4151', '協和キリン', '協和発酵キリン（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4151', '協和キリン', '協和発酵キリン（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4502
+武田
+武田薬品工業（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4502', '武田', '武田薬品工業（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'武田', '4502', '武田薬品工業（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4502', '武田', '武田薬品工業（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4503
+アステラス
+アステラス製薬（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4503', 'アステラス', 'アステラス製薬（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'アステラス', '4503', 'アステラス製薬（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4503', 'アステラス', 'アステラス製薬（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4506
+大日本住友
+大日本住友製薬（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4506', '大日本住友', '大日本住友製薬（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'大日本住友製薬（株）', '4506', '大日本住友'}
+2019-06-09 20:10:02 INFO     This was regular record:['4506', '大日本住友', '大日本住友製薬（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4507
+塩野義
+塩野義製薬（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4507', '塩野義', '塩野義製薬（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'塩野義', '塩野義製薬（株）', '4507'}
+2019-06-09 20:10:02 INFO     This was regular record:['4507', '塩野義', '塩野義製薬（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4519
+中外薬
+中外製薬（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4519', '中外薬', '中外製薬（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'中外製薬（株）', '中外薬', '4519'}
+2019-06-09 20:10:02 INFO     This was regular record:['4519', '中外薬', '中外製薬（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4523
+エーザイ
+エーザイ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4523', 'エーザイ', 'エーザイ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'エーザイ（株）', 'エーザイ', '4523'}
+2019-06-09 20:10:02 INFO     This was regular record:['4523', 'エーザイ', 'エーザイ（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4568
+第一三共
+第一三共（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4568', '第一三共', '第一三共（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'第一三共', '第一三共（株）', '4568'}
+2019-06-09 20:10:02 INFO     This was regular record:['4568', '第一三共', '第一三共（株）', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4578
+大塚ＨＤ
+大塚ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4578', '大塚ＨＤ', '大塚ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4578', '大塚ＨＤ', '大塚ホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4578', '大塚ホールディングス（株）', '大塚ＨＤ', '医薬品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+電気機器
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '電気機器', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'電気機器'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:電気機器
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3105
+日清紡ＨＤ
+日清紡ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3105', '日清紡ＨＤ', '日清紡ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'3105', '日清紡ＨＤ', '日清紡ホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['3105', '日清紡ホールディングス（株）', '日清紡ＨＤ', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6479
+ミネベア
+ミネベアミツミ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6479', 'ミネベア', 'ミネベアミツミ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ミネベア', '6479', 'ミネベアミツミ（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['6479', 'ミネベア', 'ミネベアミツミ（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6501
+日立
+（株）日立製作所
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6501', '日立', '（株）日立製作所', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）日立製作所', '6501', '日立'}
+2019-06-09 20:10:02 INFO     This was regular record:['6501', '日立', '（株）日立製作所', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6503
+三菱電
+三菱電機（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6503', '三菱電', '三菱電機（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'三菱電機（株）', '三菱電', '6503'}
+2019-06-09 20:10:02 INFO     This was regular record:['6503', '三菱電', '三菱電機（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6504
+富士電機
+富士電機（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6504', '富士電機', '富士電機（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'富士電機', '6504', '富士電機（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['6504', '富士電機', '富士電機（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6506
+安川電
+（株）安川電機
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6506', '安川電', '（株）安川電機', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'6506', '安川電', '（株）安川電機'}
+2019-06-09 20:10:02 INFO     This was regular record:['6506', '安川電', '（株）安川電機', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6645
+オムロン
+オムロン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6645', 'オムロン', 'オムロン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'オムロン', '6645', 'オムロン（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['6645', 'オムロン', 'オムロン（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6674
+ＧＳユアサ
+（株）ジーエス・ユアサ　コーポレーション
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6674', 'ＧＳユアサ', '（株）ジーエス・ユアサ\u3000コーポレーション', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ＧＳユアサ', '6674', '（株）ジーエス・ユアサ\u3000コーポレーション'}
+2019-06-09 20:10:02 INFO     This was regular record:['6674', '（株）ジーエス・ユアサ\u3000コーポレーション', 'ＧＳユアサ', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6701
+ＮＥＣ
+日本電気（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6701', 'ＮＥＣ', '日本電気（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'6701', '日本電気（株）', 'ＮＥＣ'}
+2019-06-09 20:10:02 INFO     This was regular record:['6701', '日本電気（株）', 'ＮＥＣ', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6702
+富士通
+富士通（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6702', '富士通', '富士通（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'富士通（株）', '富士通', '6702'}
+2019-06-09 20:10:02 INFO     This was regular record:['6702', '富士通', '富士通（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6703
+ＯＫＩ
+沖電気工業（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6703', 'ＯＫＩ', '沖電気工業（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'沖電気工業（株）', '6703', 'ＯＫＩ'}
+2019-06-09 20:10:02 INFO     This was regular record:['6703', '沖電気工業（株）', 'ＯＫＩ', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6724
+エプソン
+セイコーエプソン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6724', 'エプソン', 'セイコーエプソン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'エプソン', 'セイコーエプソン（株）', '6724'}
+2019-06-09 20:10:02 INFO     This was regular record:['6724', 'エプソン', 'セイコーエプソン（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6752
+パナソニック
+パナソニック（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6752', 'パナソニック', 'パナソニック（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'パナソニック', 'パナソニック（株）', '6752'}
+2019-06-09 20:10:02 INFO     This was regular record:['6752', 'パナソニック', 'パナソニック（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6758
+ソニー
+ソニー（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6758', 'ソニー', 'ソニー（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'6758', 'ソニー（株）', 'ソニー'}
+2019-06-09 20:10:02 INFO     This was regular record:['6758', 'ソニー', 'ソニー（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6762
+ＴＤＫ
+ＴＤＫ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6762', 'ＴＤＫ', 'ＴＤＫ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ＴＤＫ（株）', 'ＴＤＫ', '6762'}
+2019-06-09 20:10:02 INFO     This was regular record:['6762', 'ＴＤＫ', 'ＴＤＫ（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6770
+アルプスアル
+アルプスアルパイン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6770', 'アルプスアル', 'アルプスアルパイン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'6770', 'アルプスアル', 'アルプスアルパイン（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['6770', 'アルプスアル', 'アルプスアルパイン（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6841
+横河電
+横河電機（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6841', '横河電', '横河電機（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'横河電', '横河電機（株）', '6841'}
+2019-06-09 20:10:02 INFO     This was regular record:['6841', '横河電', '横河電機（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6857
+アドテスト
+（株）アドバンテスト
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6857', 'アドテスト', '（株）アドバンテスト', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'アドテスト', '（株）アドバンテスト', '6857'}
+2019-06-09 20:10:02 INFO     This was regular record:['6857', 'アドテスト', '（株）アドバンテスト', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6902
+デンソー
+（株）デンソー
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6902', 'デンソー', '（株）デンソー', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'デンソー', '6902', '（株）デンソー'}
+2019-06-09 20:10:02 INFO     This was regular record:['6902', 'デンソー', '（株）デンソー', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6952
+カシオ
+カシオ計算機（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6952', 'カシオ', 'カシオ計算機（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'カシオ', '6952', 'カシオ計算機（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['6952', 'カシオ', 'カシオ計算機（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6954
+ファナック
+ファナック（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6954', 'ファナック', 'ファナック（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ファナック', 'ファナック（株）', '6954'}
+2019-06-09 20:10:02 INFO     This was regular record:['6954', 'ファナック', 'ファナック（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6971
+京セラ
+京セラ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6971', '京セラ', '京セラ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'京セラ', '6971', '京セラ（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['6971', '京セラ', '京セラ（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6976
+太陽誘電
+太陽誘電（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6976', '太陽誘電', '太陽誘電（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'6976', '太陽誘電', '太陽誘電（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['6976', '太陽誘電', '太陽誘電（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7735
+スクリン
+（株）ＳＣＲＥＥＮホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7735', 'スクリン', '（株）ＳＣＲＥＥＮホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'7735', 'スクリン', '（株）ＳＣＲＥＥＮホールディングス'}
+2019-06-09 20:10:02 INFO     This was regular record:['7735', 'スクリン', '（株）ＳＣＲＥＥＮホールディングス', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7751
+キヤノン
+キヤノン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7751', 'キヤノン', 'キヤノン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'キヤノン（株）', 'キヤノン', '7751'}
+2019-06-09 20:10:02 INFO     This was regular record:['7751', 'キヤノン', 'キヤノン（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7752
+リコー
+（株）リコー
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7752', 'リコー', '（株）リコー', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'リコー', '（株）リコー', '7752'}
+2019-06-09 20:10:02 INFO     This was regular record:['7752', 'リコー', '（株）リコー', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8035
+東エレク
+東京エレクトロン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8035', '東エレク', '東京エレクトロン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'東エレク', '8035', '東京エレクトロン（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['8035', '東エレク', '東京エレクトロン（株）', '電気機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+自動車
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '自動車', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'自動車'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:自動車
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7201
+日産自
+日産自動車（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7201', '日産自', '日産自動車（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'日産自', '7201', '日産自動車（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['7201', '日産自', '日産自動車（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7202
+いすゞ
+いすゞ自動車（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7202', 'いすゞ', 'いすゞ自動車（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'いすゞ', '7202', 'いすゞ自動車（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['7202', 'いすゞ', 'いすゞ自動車（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7203
+トヨタ
+トヨタ自動車（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7203', 'トヨタ', 'トヨタ自動車（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'7203', 'トヨタ', 'トヨタ自動車（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['7203', 'トヨタ', 'トヨタ自動車（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7205
+日野自
+日野自動車（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7205', '日野自', '日野自動車（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'日野自動車（株）', '日野自', '7205'}
+2019-06-09 20:10:02 INFO     This was regular record:['7205', '日野自', '日野自動車（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7211
+三菱自
+三菱自動車工業（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7211', '三菱自', '三菱自動車工業（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'三菱自動車工業（株）', '7211', '三菱自'}
+2019-06-09 20:10:02 INFO     This was regular record:['7211', '三菱自', '三菱自動車工業（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7261
+マツダ
+マツダ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7261', 'マツダ', 'マツダ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'マツダ', '7261', 'マツダ（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['7261', 'マツダ', 'マツダ（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7267
+ホンダ
+本田技研工業（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7267', 'ホンダ', '本田技研工業（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'7267', 'ホンダ', '本田技研工業（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['7267', 'ホンダ', '本田技研工業（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7269
+スズキ
+スズキ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7269', 'スズキ', 'スズキ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'スズキ', 'スズキ（株）', '7269'}
+2019-06-09 20:10:02 INFO     This was regular record:['7269', 'スズキ', 'スズキ（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7270
+ＳＵＢＡＲＵ
+（株）ＳＵＢＡＲＵ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7270', 'ＳＵＢＡＲＵ', '（株）ＳＵＢＡＲＵ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）ＳＵＢＡＲＵ', '7270', 'ＳＵＢＡＲＵ'}
+2019-06-09 20:10:02 INFO     This was regular record:['7270', '（株）ＳＵＢＡＲＵ', 'ＳＵＢＡＲＵ', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7272
+ヤマハ発
+ヤマハ発動機（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7272', 'ヤマハ発', 'ヤマハ発動機（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ヤマハ発動機（株）', 'ヤマハ発', '7272'}
+2019-06-09 20:10:02 INFO     This was regular record:['7272', 'ヤマハ発', 'ヤマハ発動機（株）', '自動車']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+精密機器
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '精密機器', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'精密機器'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:精密機器
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '精密機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4543
+テルモ
+テルモ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4543', 'テルモ', 'テルモ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'テルモ（株）', 'テルモ', '4543'}
+2019-06-09 20:10:02 INFO     This was regular record:['4543', 'テルモ', 'テルモ（株）', '精密機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4902
+コニカミノル
+コニカミノルタ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4902', 'コニカミノル', 'コニカミノルタ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'コニカミノル', '4902', 'コニカミノルタ（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4902', 'コニカミノル', 'コニカミノルタ（株）', '精密機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7731
+ニコン
+（株）ニコン
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7731', 'ニコン', '（株）ニコン', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）ニコン', '7731', 'ニコン'}
+2019-06-09 20:10:02 INFO     This was regular record:['7731', 'ニコン', '（株）ニコン', '精密機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7733
+オリンパス
+オリンパス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7733', 'オリンパス', 'オリンパス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'オリンパス', 'オリンパス（株）', '7733'}
+2019-06-09 20:10:02 INFO     This was regular record:['7733', 'オリンパス', 'オリンパス（株）', '精密機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7762
+シチズン
+シチズン時計（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7762', 'シチズン', 'シチズン時計（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'7762', 'シチズン時計（株）', 'シチズン'}
+2019-06-09 20:10:02 INFO     This was regular record:['7762', 'シチズン', 'シチズン時計（株）', '精密機器']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+通信
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '通信', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'通信'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:通信
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '通信']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9412
+スカパーＪ
+（株）スカパーＪＳＡＴホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9412', 'スカパーＪ', '（株）スカパーＪＳＡＴホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）スカパーＪＳＡＴホールディングス', 'スカパーＪ', '9412'}
+2019-06-09 20:10:02 INFO     This was regular record:['9412', 'スカパーＪ', '（株）スカパーＪＳＡＴホールディングス', '通信']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9432
+ＮＴＴ
+日本電信電話（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9432', 'ＮＴＴ', '日本電信電話（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ＮＴＴ', '9432', '日本電信電話（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['9432', '日本電信電話（株）', 'ＮＴＴ', '通信']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9433
+ＫＤＤＩ
+ＫＤＤＩ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9433', 'ＫＤＤＩ', 'ＫＤＤＩ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ＫＤＤＩ', '9433', 'ＫＤＤＩ（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['9433', 'ＫＤＤＩ', 'ＫＤＤＩ（株）', '通信']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9437
+ＮＴＴドコモ
+（株）ＮＴＴドコモ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9437', 'ＮＴＴドコモ', '（株）ＮＴＴドコモ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'9437', 'ＮＴＴドコモ', '（株）ＮＴＴドコモ'}
+2019-06-09 20:10:02 INFO     This was regular record:['9437', '（株）ＮＴＴドコモ', 'ＮＴＴドコモ', '通信']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9613
+ＮＴＴデータ
+（株）エヌ・ティ・ティ・データ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9613', 'ＮＴＴデータ', '（株）エヌ・ティ・ティ・データ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）エヌ・ティ・ティ・データ', '9613', 'ＮＴＴデータ'}
+2019-06-09 20:10:02 INFO     This was regular record:['9613', '（株）エヌ・ティ・ティ・データ', 'ＮＴＴデータ', '通信']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9984
+ＳＢＧ
+ソフトバンクグループ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9984', 'ＳＢＧ', 'ソフトバンクグループ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'9984', 'ＳＢＧ', 'ソフトバンクグループ（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['9984', 'ソフトバンクグループ（株）', 'ＳＢＧ', '通信']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+銀行
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '銀行', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銀行'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:銀行
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+7186
+コンコルディ
+（株）コンコルディア・フィナンシャルグループ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '7186', 'コンコルディ', '（株）コンコルディア・フィナンシャルグループ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）コンコルディア・フィナンシャルグループ', '7186', 'コンコルディ'}
+2019-06-09 20:10:02 INFO     This was regular record:['7186', 'コンコルディ', '（株）コンコルディア・フィナンシャルグループ', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8303
+新生銀
+（株）新生銀行
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8303', '新生銀', '（株）新生銀行', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）新生銀行', '新生銀', '8303'}
+2019-06-09 20:10:02 INFO     This was regular record:['8303', '新生銀', '（株）新生銀行', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8304
+あおぞら銀
+（株）あおぞら銀行
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8304', 'あおぞら銀', '（株）あおぞら銀行', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'あおぞら銀', '（株）あおぞら銀行', '8304'}
+2019-06-09 20:10:02 INFO     This was regular record:['8304', 'あおぞら銀', '（株）あおぞら銀行', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8306
+三菱ＵＦＪ
+（株）三菱ＵＦＪフィナンシャル・グループ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8306', '三菱ＵＦＪ', '（株）三菱ＵＦＪフィナンシャル・グループ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8306', '（株）三菱ＵＦＪフィナンシャル・グループ', '三菱ＵＦＪ'}
+2019-06-09 20:10:02 INFO     This was regular record:['8306', '三菱ＵＦＪ', '（株）三菱ＵＦＪフィナンシャル・グループ', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8308
+りそなＨＤ
+（株）りそなホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8308', 'りそなＨＤ', '（株）りそなホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'りそなＨＤ', '（株）りそなホールディングス', '8308'}
+2019-06-09 20:10:02 INFO     This was regular record:['8308', 'りそなＨＤ', '（株）りそなホールディングス', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8309
+三井住友トラ
+三井住友トラスト・ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8309', '三井住友トラ', '三井住友トラスト・ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8309', '三井住友トラスト・ホールディングス（株）', '三井住友トラ'}
+2019-06-09 20:10:02 INFO     This was regular record:['8309', '三井住友トラ', '三井住友トラスト・ホールディングス（株）', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8316
+三井住友ＦＧ
+（株）三井住友フィナンシャルグループ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8316', '三井住友ＦＧ', '（株）三井住友フィナンシャルグループ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8316', '三井住友ＦＧ', '（株）三井住友フィナンシャルグループ'}
+2019-06-09 20:10:02 INFO     This was regular record:['8316', '三井住友ＦＧ', '（株）三井住友フィナンシャルグループ', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8331
+千葉銀
+（株）千葉銀行
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8331', '千葉銀', '（株）千葉銀行', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'千葉銀', '8331', '（株）千葉銀行'}
+2019-06-09 20:10:02 INFO     This was regular record:['8331', '千葉銀', '（株）千葉銀行', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8354
+ふくおかＦＧ
+（株）ふくおかフィナンシャルグループ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8354', 'ふくおかＦＧ', '（株）ふくおかフィナンシャルグループ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）ふくおかフィナンシャルグループ', 'ふくおかＦＧ', '8354'}
+2019-06-09 20:10:02 INFO     This was regular record:['8354', 'ふくおかＦＧ', '（株）ふくおかフィナンシャルグループ', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8355
+静岡銀
+（株）静岡銀行
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8355', '静岡銀', '（株）静岡銀行', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）静岡銀行', '静岡銀', '8355'}
+2019-06-09 20:10:02 INFO     This was regular record:['8355', '静岡銀', '（株）静岡銀行', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8411
+みずほＦＧ
+（株）みずほフィナンシャルグループ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8411', 'みずほＦＧ', '（株）みずほフィナンシャルグループ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）みずほフィナンシャルグループ', 'みずほＦＧ', '8411'}
+2019-06-09 20:10:02 INFO     This was regular record:['8411', 'みずほＦＧ', '（株）みずほフィナンシャルグループ', '銀行']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+その他金融
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'その他金融', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'その他金融'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:その他金融
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', 'その他金融']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8253
+クレセゾン
+（株）クレディセゾン
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8253', 'クレセゾン', '（株）クレディセゾン', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）クレディセゾン', 'クレセゾン', '8253'}
+2019-06-09 20:10:02 INFO     This was regular record:['8253', 'クレセゾン', '（株）クレディセゾン', 'その他金融']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+証券
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '証券', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'証券'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:証券
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '証券']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8601
+大和
+（株）大和証券グループ本社
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8601', '大和', '（株）大和証券グループ本社', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8601', '大和', '（株）大和証券グループ本社'}
+2019-06-09 20:10:02 INFO     This was regular record:['8601', '大和', '（株）大和証券グループ本社', '証券']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8604
+野村
+野村ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8604', '野村', '野村ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'野村ホールディングス（株）', '8604', '野村'}
+2019-06-09 20:10:02 INFO     This was regular record:['8604', '野村', '野村ホールディングス（株）', '証券']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8628
+松井
+松井証券（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8628', '松井', '松井証券（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'松井証券（株）', '松井', '8628'}
+2019-06-09 20:10:02 INFO     This was regular record:['8628', '松井', '松井証券（株）', '証券']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+保険
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '保険', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'保険'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:保険
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '保険']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8630
+ＳＯＭＰＯ
+ＳＯＭＰＯホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8630', 'ＳＯＭＰＯ', 'ＳＯＭＰＯホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8630', 'ＳＯＭＰＯ', 'ＳＯＭＰＯホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['8630', 'ＳＯＭＰＯ', 'ＳＯＭＰＯホールディングス（株）', '保険']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8725
+ＭＳ＆ＡＤ
+ＭＳ＆ＡＤインシュアランスグループホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8725', 'ＭＳ＆ＡＤ', 'ＭＳ＆ＡＤインシュアランスグループホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ＭＳ＆ＡＤインシュアランスグループホールディングス（株）', 'ＭＳ＆ＡＤ', '8725'}
+2019-06-09 20:10:02 INFO     This was regular record:['8725', 'ＭＳ＆ＡＤ', 'ＭＳ＆ＡＤインシュアランスグループホールディングス（株）', '保険']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8729
+ソニーＦＨ
+ソニーフィナンシャルホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8729', 'ソニーＦＨ', 'ソニーフィナンシャルホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ソニーフィナンシャルホールディングス（株）', '8729', 'ソニーＦＨ'}
+2019-06-09 20:10:02 INFO     This was regular record:['8729', 'ソニーフィナンシャルホールディングス（株）', 'ソニーＦＨ', '保険']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8750
+第一生命ＨＤ
+第一生命ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8750', '第一生命ＨＤ', '第一生命ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8750', '第一生命ホールディングス（株）', '第一生命ＨＤ'}
+2019-06-09 20:10:02 INFO     This was regular record:['8750', '第一生命ホールディングス（株）', '第一生命ＨＤ', '保険']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8766
+東京海上
+東京海上ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8766', '東京海上', '東京海上ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8766', '東京海上', '東京海上ホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['8766', '東京海上', '東京海上ホールディングス（株）', '保険']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8795
+Ｔ＆Ｄ
+（株）Ｔ＆Ｄホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8795', 'Ｔ＆Ｄ', '（株）Ｔ＆Ｄホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8795', '（株）Ｔ＆Ｄホールディングス', 'Ｔ＆Ｄ'}
+2019-06-09 20:10:02 INFO     This was regular record:['8795', '（株）Ｔ＆Ｄホールディングス', 'Ｔ＆Ｄ', '保険']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+水産
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '水産', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'水産'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:水産
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '水産']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+1332
+日水
+日本水産（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '1332', '日水', '日本水産（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'日本水産（株）', '日水', '1332'}
+2019-06-09 20:10:02 INFO     This was regular record:['1332', '日本水産（株）', '日水', '水産']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+1333
+マルハニチロ
+マルハニチロ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '1333', 'マルハニチロ', 'マルハニチロ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'1333', 'マルハニチロ（株）', 'マルハニチロ'}
+2019-06-09 20:10:02 INFO     This was regular record:['1333', 'マルハニチロ', 'マルハニチロ（株）', '水産']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+食品
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '食品', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'食品'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:食品
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2002
+日清粉Ｇ
+（株）日清製粉グループ本社
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2002', '日清粉Ｇ', '（株）日清製粉グループ本社', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）日清製粉グループ本社', '2002', '日清粉Ｇ'}
+2019-06-09 20:10:02 INFO     This was regular record:['2002', '日清粉Ｇ', '（株）日清製粉グループ本社', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2269
+明治ＨＤ
+明治ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2269', '明治ＨＤ', '明治ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'明治ＨＤ', '2269', '明治ホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['2269', '明治ホールディングス（株）', '明治ＨＤ', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2282
+日ハム
+日本ハム（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2282', '日ハム', '日本ハム（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'日ハム', '2282', '日本ハム（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['2282', '日ハム', '日本ハム（株）', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2501
+サッポロＨＤ
+サッポロホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2501', 'サッポロＨＤ', 'サッポロホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'サッポロＨＤ', '2501', 'サッポロホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['2501', 'サッポロホールディングス（株）', 'サッポロＨＤ', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2502
+アサヒ
+アサヒグループホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2502', 'アサヒ', 'アサヒグループホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'アサヒ', '2502', 'アサヒグループホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['2502', 'アサヒ', 'アサヒグループホールディングス（株）', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2503
+キリンＨＤ
+キリンホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2503', 'キリンＨＤ', 'キリンホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'キリンホールディングス（株）', '2503', 'キリンＨＤ'}
+2019-06-09 20:10:02 INFO     This was regular record:['2503', 'キリンホールディングス（株）', 'キリンＨＤ', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2531
+宝ＨＬＤ
+宝ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2531', '宝ＨＬＤ', '宝ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'2531', '宝ＨＬＤ', '宝ホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['2531', '宝ホールディングス（株）', '宝ＨＬＤ', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2801
+キッコマン
+キッコーマン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2801', 'キッコマン', 'キッコーマン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'2801', 'キッコマン', 'キッコーマン（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['2801', 'キッコマン', 'キッコーマン（株）', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2802
+味の素
+味の素（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2802', '味の素', '味の素（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'味の素', '2802', '味の素（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['2802', '味の素', '味の素（株）', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2871
+ニチレイ
+（株）ニチレイ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2871', 'ニチレイ', '（株）ニチレイ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'2871', '（株）ニチレイ', 'ニチレイ'}
+2019-06-09 20:10:02 INFO     This was regular record:['2871', 'ニチレイ', '（株）ニチレイ', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2914
+ＪＴ
+日本たばこ産業（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2914', 'ＪＴ', '日本たばこ産業（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'2914', '日本たばこ産業（株）', 'ＪＴ'}
+2019-06-09 20:10:02 INFO     This was regular record:['2914', '日本たばこ産業（株）', 'ＪＴ', '食品']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+小売業
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '小売業', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'小売業'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:小売業
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3086
+Ｊフロント
+Ｊ．フロント　リテイリング（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3086', 'Ｊフロント', 'Ｊ．フロント\u3000リテイリング（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'3086', 'Ｊフロント', 'Ｊ．フロント\u3000リテイリング（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['3086', 'Ｊフロント', 'Ｊ．フロント\u3000リテイリング（株）', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3099
+三越伊勢丹
+（株）三越伊勢丹ホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3099', '三越伊勢丹', '（株）三越伊勢丹ホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'3099', '三越伊勢丹', '（株）三越伊勢丹ホールディングス'}
+2019-06-09 20:10:02 INFO     This was regular record:['3099', '三越伊勢丹', '（株）三越伊勢丹ホールディングス', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3382
+セブン＆アイ
+（株）セブン＆アイ・ホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3382', 'セブン＆アイ', '（株）セブン＆アイ・ホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'セブン＆アイ', '3382', '（株）セブン＆アイ・ホールディングス'}
+2019-06-09 20:10:02 INFO     This was regular record:['3382', 'セブン＆アイ', '（株）セブン＆アイ・ホールディングス', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8028
+ユニファミマ
+ユニー・ファミリーマートホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8028', 'ユニファミマ', 'ユニー・ファミリーマートホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ユニファミマ', 'ユニー・ファミリーマートホールディングス（株）', '8028'}
+2019-06-09 20:10:02 INFO     This was regular record:['8028', 'ユニファミマ', 'ユニー・ファミリーマートホールディングス（株）', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8233
+高島屋
+（株）高島屋
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8233', '高島屋', '（株）高島屋', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'8233', '高島屋', '（株）高島屋'}
+2019-06-09 20:10:02 INFO     This was regular record:['8233', '高島屋', '（株）高島屋', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8252
+丸井Ｇ
+（株）丸井グループ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8252', '丸井Ｇ', '（株）丸井グループ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）丸井グループ', '8252', '丸井Ｇ'}
+2019-06-09 20:10:02 INFO     This was regular record:['8252', '丸井Ｇ', '（株）丸井グループ', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+8267
+イオン
+イオン（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '8267', 'イオン', 'イオン（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'イオン', 'イオン（株）', '8267'}
+2019-06-09 20:10:02 INFO     This was regular record:['8267', 'イオン', 'イオン（株）', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9983
+ファストリ
+（株）ファーストリテイリング
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9983', 'ファストリ', '（株）ファーストリテイリング', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ファストリ', '9983', '（株）ファーストリテイリング'}
+2019-06-09 20:10:02 INFO     This was regular record:['9983', 'ファストリ', '（株）ファーストリテイリング', '小売業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+サービス
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'サービス', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'サービス'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:サービス
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+2432
+ディーエヌエ
+（株）ディー・エヌ・エー
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '2432', 'ディーエヌエ', '（株）ディー・エヌ・エー', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'ディーエヌエ', '（株）ディー・エヌ・エー', '2432'}
+2019-06-09 20:10:02 INFO     This was regular record:['2432', 'ディーエヌエ', '（株）ディー・エヌ・エー', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4324
+電通
+（株）電通
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4324', '電通', '（株）電通', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'電通', '4324', '（株）電通'}
+2019-06-09 20:10:02 INFO     This was regular record:['4324', '電通', '（株）電通', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4689
+ヤフー
+ヤフー（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4689', 'ヤフー', 'ヤフー（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4689', 'ヤフー（株）', 'ヤフー'}
+2019-06-09 20:10:02 INFO     This was regular record:['4689', 'ヤフー', 'ヤフー（株）', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4704
+トレンド
+トレンドマイクロ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4704', 'トレンド', 'トレンドマイクロ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'トレンド', '4704', 'トレンドマイクロ（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4704', 'トレンド', 'トレンドマイクロ（株）', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4751
+サイバー
+（株）サイバーエージェント
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4751', 'サイバー', '（株）サイバーエージェント', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）サイバーエージェント', '4751', 'サイバー'}
+2019-06-09 20:10:02 INFO     This was regular record:['4751', 'サイバー', '（株）サイバーエージェント', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4755
+楽天
+楽天（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4755', '楽天', '楽天（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4755', '楽天', '楽天（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4755', '楽天', '楽天（株）', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6098
+リクルート
+（株）リクルートホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6098', 'リクルート', '（株）リクルートホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'リクルート', '6098', '（株）リクルートホールディングス'}
+2019-06-09 20:10:02 INFO     This was regular record:['6098', 'リクルート', '（株）リクルートホールディングス', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+6178
+日本郵政
+日本郵政（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '6178', '日本郵政', '日本郵政（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'6178', '日本郵政（株）', '日本郵政'}
+2019-06-09 20:10:02 INFO     This was regular record:['6178', '日本郵政', '日本郵政（株）', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9602
+東宝
+東宝（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9602', '東宝', '東宝（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'東宝', '東宝（株）', '9602'}
+2019-06-09 20:10:02 INFO     This was regular record:['9602', '東宝', '東宝（株）', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9681
+東京ドーム
+（株）東京ドーム
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9681', '東京ドーム', '（株）東京ドーム', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'9681', '東京ドーム', '（株）東京ドーム'}
+2019-06-09 20:10:02 INFO     This was regular record:['9681', '東京ドーム', '（株）東京ドーム', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9735
+セコム
+セコム（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9735', 'セコム', 'セコム（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'セコム（株）', 'セコム', '9735'}
+2019-06-09 20:10:02 INFO     This was regular record:['9735', 'セコム', 'セコム（株）', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+9766
+コナミＨＤ
+コナミホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '9766', 'コナミＨＤ', 'コナミホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'コナミホールディングス（株）', '9766', 'コナミＨＤ'}
+2019-06-09 20:10:02 INFO     This was regular record:['9766', 'コナミホールディングス（株）', 'コナミＨＤ', 'サービス']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+鉱業
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '鉱業', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'鉱業'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:鉱業
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '鉱業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+1605
+国際石開帝石
+国際石油開発帝石（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '1605', '国際石開帝石', '国際石油開発帝石（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'国際石油開発帝石（株）', '国際石開帝石', '1605'}
+2019-06-09 20:10:02 INFO     This was regular record:['1605', '国際石油開発帝石（株）', '国際石開帝石', '鉱業']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+繊維
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '繊維', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'繊維'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:繊維
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '繊維']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3101
+東洋紡
+東洋紡（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3101', '東洋紡', '東洋紡（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'東洋紡（株）', '3101', '東洋紡'}
+2019-06-09 20:10:02 INFO     This was regular record:['3101', '東洋紡', '東洋紡（株）', '繊維']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3103
+ユニチカ
+ユニチカ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3103', 'ユニチカ', 'ユニチカ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'3103', 'ユニチカ（株）', 'ユニチカ'}
+2019-06-09 20:10:02 INFO     This was regular record:['3103', 'ユニチカ', 'ユニチカ（株）', '繊維']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3401
+帝人
+帝人（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3401', '帝人', '帝人（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'3401', '帝人', '帝人（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['3401', '帝人', '帝人（株）', '繊維']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3402
+東レ
+東レ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3402', '東レ', '東レ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'東レ', '東レ（株）', '3402'}
+2019-06-09 20:10:02 INFO     This was regular record:['3402', '東レ', '東レ（株）', '繊維']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+パルプ・紙
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'パルプ・紙', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'パルプ・紙'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:パルプ・紙
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', 'パルプ・紙']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3861
+王子ＨＤ
+王子ホールディングス（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3861', '王子ＨＤ', '王子ホールディングス（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'王子ＨＤ', '3861', '王子ホールディングス（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['3861', '王子ホールディングス（株）', '王子ＨＤ', 'パルプ・紙']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3863
+日本紙
+日本製紙（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3863', '日本紙', '日本製紙（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'3863', '日本製紙（株）', '日本紙'}
+2019-06-09 20:10:02 INFO     This was regular record:['3863', '日本紙', '日本製紙（株）', 'パルプ・紙']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+化学
+
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '化学', '', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'化学'}
+2019-06-09 20:10:02 INFO     The record contains industry_name:化学
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:02 INFO     This was regular record:['コード', '社名', '銘柄名', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3405
+クラレ
+（株）クラレ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3405', 'クラレ', '（株）クラレ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'（株）クラレ', '3405', 'クラレ'}
+2019-06-09 20:10:02 INFO     This was regular record:['3405', 'クラレ', '（株）クラレ', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+3407
+旭化成
+旭化成（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '3407', '旭化成', '旭化成（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'旭化成（株）', '旭化成', '3407'}
+2019-06-09 20:10:02 INFO     This was regular record:['3407', '旭化成', '旭化成（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4004
+昭電工
+昭和電工（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4004', '昭電工', '昭和電工（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'昭和電工（株）', '4004', '昭電工'}
+2019-06-09 20:10:02 INFO     This was regular record:['4004', '昭和電工（株）', '昭電工', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4005
+住友化
+住友化学（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4005', '住友化', '住友化学（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4005', '住友化学（株）', '住友化'}
+2019-06-09 20:10:02 INFO     This was regular record:['4005', '住友化', '住友化学（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4021
+日産化
+日産化学（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4021', '日産化', '日産化学（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'日産化', '日産化学（株）', '4021'}
+2019-06-09 20:10:02 INFO     This was regular record:['4021', '日産化', '日産化学（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4042
+東ソー
+東ソー（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4042', '東ソー', '東ソー（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'東ソー', '4042', '東ソー（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4042', '東ソー', '東ソー（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4043
+トクヤマ
+（株）トクヤマ
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4043', 'トクヤマ', '（株）トクヤマ', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4043', '（株）トクヤマ', 'トクヤマ'}
+2019-06-09 20:10:02 INFO     This was regular record:['4043', 'トクヤマ', '（株）トクヤマ', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4061
+デンカ
+デンカ（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4061', 'デンカ', 'デンカ（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4061', 'デンカ（株）', 'デンカ'}
+2019-06-09 20:10:02 INFO     This was regular record:['4061', 'デンカ', 'デンカ（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4063
+信越化
+信越化学工業（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4063', '信越化', '信越化学工業（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'信越化学工業（株）', '信越化', '4063'}
+2019-06-09 20:10:02 INFO     This was regular record:['4063', '信越化', '信越化学工業（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4183
+三井化学
+三井化学（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4183', '三井化学', '三井化学（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'三井化学（株）', '4183', '三井化学'}
+2019-06-09 20:10:02 INFO     This was regular record:['4183', '三井化学', '三井化学（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4188
+三菱ケミＨＤ
+（株）三菱ケミカルホールディングス
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4188', '三菱ケミＨＤ', '（株）三菱ケミカルホールディングス', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'三菱ケミＨＤ', '4188', '（株）三菱ケミカルホールディングス'}
+2019-06-09 20:10:02 INFO     This was regular record:['4188', '三菱ケミＨＤ', '（株）三菱ケミカルホールディングス', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4208
+宇部興
+宇部興産（株）
+
+2019-06-09 20:10:02 INFO     Initial record as list:['', '4208', '宇部興', '宇部興産（株）', '']
+2019-06-09 20:10:02 INFO     After converting to set and removing empty strings:{'4208', '宇部興', '宇部興産（株）'}
+2019-06-09 20:10:02 INFO     This was regular record:['4208', '宇部興', '宇部興産（株）', '化学']
+2019-06-09 20:10:02 INFO     Raw record:
+2019-06-09 20:10:02 INFO     Raw record:
+4272
+日化薬
+日本化薬（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '4272', '日化薬', '日本化薬（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'日化薬', '4272', '日本化薬（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['4272', '日化薬', '日本化薬（株）', '化学']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+4452
+花王
+花王（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '4452', '花王', '花王（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'4452', '花王（株）', '花王'}
+2019-06-09 20:10:03 INFO     This was regular record:['4452', '花王', '花王（株）', '化学']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+4631
+ＤＩＣ
+ＤＩＣ（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '4631', 'ＤＩＣ', 'ＤＩＣ（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＤＩＣ（株）', '4631', 'ＤＩＣ'}
+2019-06-09 20:10:03 INFO     This was regular record:['4631', 'ＤＩＣ', 'ＤＩＣ（株）', '化学']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+4901
+富士フイルム
+富士フイルムホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '4901', '富士フイルム', '富士フイルムホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'富士フイルム', '富士フイルムホールディングス（株）', '4901'}
+2019-06-09 20:10:03 INFO     This was regular record:['4901', '富士フイルム', '富士フイルムホールディングス（株）', '化学']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+4911
+資生堂
+（株）資生堂
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '4911', '資生堂', '（株）資生堂', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'4911', '（株）資生堂', '資生堂'}
+2019-06-09 20:10:03 INFO     This was regular record:['4911', '資生堂', '（株）資生堂', '化学']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6988
+日東電
+日東電工（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6988', '日東電', '日東電工（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'日東電', '6988', '日東電工（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['6988', '日東電', '日東電工（株）', '化学']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+石油
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '石油', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'石油'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:石油
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '石油']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5019
+出光興産
+出光興産（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5019', '出光興産', '出光興産（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'出光興産', '5019', '出光興産（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5019', '出光興産', '出光興産（株）', '石油']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5020
+ＪＸＴＧ
+ＪＸＴＧホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5020', 'ＪＸＴＧ', 'ＪＸＴＧホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＪＸＴＧ', 'ＪＸＴＧホールディングス（株）', '5020'}
+2019-06-09 20:10:03 INFO     This was regular record:['5020', 'ＪＸＴＧ', 'ＪＸＴＧホールディングス（株）', '石油']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+ゴム
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'ゴム', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ゴム'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:ゴム
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', 'ゴム']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5101
+浜ゴム
+横浜ゴム（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5101', '浜ゴム', '横浜ゴム（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5101', '浜ゴム', '横浜ゴム（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5101', '横浜ゴム（株）', '浜ゴム', 'ゴム']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5108
+ブリヂストン
+（株）ブリヂストン
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5108', 'ブリヂストン', '（株）ブリヂストン', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5108', 'ブリヂストン', '（株）ブリヂストン'}
+2019-06-09 20:10:03 INFO     This was regular record:['5108', 'ブリヂストン', '（株）ブリヂストン', 'ゴム']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+窯業
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '窯業', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'窯業'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:窯業
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5201
+ＡＧＣ
+ＡＧＣ（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5201', 'ＡＧＣ', 'ＡＧＣ（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＡＧＣ（株）', 'ＡＧＣ', '5201'}
+2019-06-09 20:10:03 INFO     This was regular record:['5201', 'ＡＧＣ', 'ＡＧＣ（株）', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5202
+板硝子
+日本板硝子（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5202', '板硝子', '日本板硝子（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5202', '日本板硝子（株）', '板硝子'}
+2019-06-09 20:10:03 INFO     This was regular record:['5202', '日本板硝子（株）', '板硝子', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5214
+日電硝
+日本電気硝子（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5214', '日電硝', '日本電気硝子（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5214', '日電硝', '日本電気硝子（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5214', '日本電気硝子（株）', '日電硝', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5232
+住友大阪
+住友大阪セメント（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5232', '住友大阪', '住友大阪セメント（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5232', '住友大阪セメント（株）', '住友大阪'}
+2019-06-09 20:10:03 INFO     This was regular record:['5232', '住友大阪', '住友大阪セメント（株）', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5233
+太平洋セメ
+太平洋セメント（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5233', '太平洋セメ', '太平洋セメント（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5233', '太平洋セメント（株）', '太平洋セメ'}
+2019-06-09 20:10:03 INFO     This was regular record:['5233', '太平洋セメ', '太平洋セメント（株）', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5301
+東海カ
+東海カーボン（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5301', '東海カ', '東海カーボン（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'東海カ', '東海カーボン（株）', '5301'}
+2019-06-09 20:10:03 INFO     This was regular record:['5301', '東海カ', '東海カーボン（株）', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5332
+ＴＯＴＯ
+ＴＯＴＯ（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5332', 'ＴＯＴＯ', 'ＴＯＴＯ（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5332', 'ＴＯＴＯ', 'ＴＯＴＯ（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5332', 'ＴＯＴＯ', 'ＴＯＴＯ（株）', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5333
+ガイシ
+日本碍子（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5333', 'ガイシ', '日本碍子（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5333', 'ガイシ', '日本碍子（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5333', 'ガイシ', '日本碍子（株）', '窯業']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+鉄鋼
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '鉄鋼', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'鉄鋼'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:鉄鋼
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '鉄鋼']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5401
+日本製鉄
+日本製鉄（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5401', '日本製鉄', '日本製鉄（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'日本製鉄', '5401', '日本製鉄（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5401', '日本製鉄', '日本製鉄（株）', '鉄鋼']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5406
+神戸鋼
+（株）神戸製鋼所
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5406', '神戸鋼', '（株）神戸製鋼所', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5406', '神戸鋼', '（株）神戸製鋼所'}
+2019-06-09 20:10:03 INFO     This was regular record:['5406', '神戸鋼', '（株）神戸製鋼所', '鉄鋼']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5411
+ＪＦＥ
+ジェイ　エフ　イー　ホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5411', 'ＪＦＥ', 'ジェイ\u3000エフ\u3000イー\u3000ホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ジェイ\u3000エフ\u3000イー\u3000ホールディングス（株）', '5411', 'ＪＦＥ'}
+2019-06-09 20:10:03 INFO     This was regular record:['5411', 'ジェイ\u3000エフ\u3000イー\u3000ホールディングス（株）', 'ＪＦＥ', '鉄鋼']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5541
+大平金
+大平洋金属（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5541', '大平金', '大平洋金属（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'大平洋金属（株）', '大平金', '5541'}
+2019-06-09 20:10:03 INFO     This was regular record:['5541', '大平洋金属（株）', '大平金', '鉄鋼']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+非鉄・金属
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '非鉄・金属', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'非鉄・金属'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:非鉄・金属
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+3436
+ＳＵＭＣＯ
+（株）ＳＵＭＣＯ
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '3436', 'ＳＵＭＣＯ', '（株）ＳＵＭＣＯ', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'3436', 'ＳＵＭＣＯ', '（株）ＳＵＭＣＯ'}
+2019-06-09 20:10:03 INFO     This was regular record:['3436', '（株）ＳＵＭＣＯ', 'ＳＵＭＣＯ', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5703
+日軽金ＨＤ
+日本軽金属ホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5703', '日軽金ＨＤ', '日本軽金属ホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'日軽金ＨＤ', '5703', '日本軽金属ホールディングス（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5703', '日本軽金属ホールディングス（株）', '日軽金ＨＤ', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5706
+三井金
+三井金属鉱業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5706', '三井金', '三井金属鉱業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5706', '三井金属鉱業（株）', '三井金'}
+2019-06-09 20:10:03 INFO     This was regular record:['5706', '三井金', '三井金属鉱業（株）', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5707
+東邦鉛
+東邦亜鉛（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5707', '東邦鉛', '東邦亜鉛（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5707', '東邦亜鉛（株）', '東邦鉛'}
+2019-06-09 20:10:03 INFO     This was regular record:['5707', '東邦亜鉛（株）', '東邦鉛', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5711
+三菱マ
+三菱マテリアル（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5711', '三菱マ', '三菱マテリアル（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'三菱マテリアル（株）', '5711', '三菱マ'}
+2019-06-09 20:10:03 INFO     This was regular record:['5711', '三菱マ', '三菱マテリアル（株）', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5713
+住友鉱
+住友金属鉱山（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5713', '住友鉱', '住友金属鉱山（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'住友鉱', '住友金属鉱山（株）', '5713'}
+2019-06-09 20:10:03 INFO     This was regular record:['5713', '住友金属鉱山（株）', '住友鉱', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5714
+ＤＯＷＡ
+ＤＯＷＡホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5714', 'ＤＯＷＡ', 'ＤＯＷＡホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＤＯＷＡ', '5714', 'ＤＯＷＡホールディングス（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5714', 'ＤＯＷＡ', 'ＤＯＷＡホールディングス（株）', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5801
+古河電
+古河電気工業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5801', '古河電', '古河電気工業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'古河電', '5801', '古河電気工業（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5801', '古河電', '古河電気工業（株）', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5802
+住友電
+住友電気工業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5802', '住友電', '住友電気工業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5802', '住友電', '住友電気工業（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['5802', '住友電', '住友電気工業（株）', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5803
+フジクラ
+（株）フジクラ
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5803', 'フジクラ', '（株）フジクラ', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'（株）フジクラ', '5803', 'フジクラ'}
+2019-06-09 20:10:03 INFO     This was regular record:['5803', 'フジクラ', '（株）フジクラ', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5901
+洋缶ＨＤ
+東洋製罐グループホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5901', '洋缶ＨＤ', '東洋製罐グループホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'5901', '東洋製罐グループホールディングス（株）', '洋缶ＨＤ'}
+2019-06-09 20:10:03 INFO     This was regular record:['5901', '東洋製罐グループホールディングス（株）', '洋缶ＨＤ', '非鉄・金属']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+商社
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '商社', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'商社'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:商社
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+2768
+双日
+双日（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '2768', '双日', '双日（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'2768', '双日（株）', '双日'}
+2019-06-09 20:10:03 INFO     This was regular record:['2768', '双日', '双日（株）', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8001
+伊藤忠
+伊藤忠商事（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8001', '伊藤忠', '伊藤忠商事（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'伊藤忠商事（株）', '伊藤忠', '8001'}
+2019-06-09 20:10:03 INFO     This was regular record:['8001', '伊藤忠', '伊藤忠商事（株）', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8002
+丸紅
+丸紅（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8002', '丸紅', '丸紅（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'8002', '丸紅（株）', '丸紅'}
+2019-06-09 20:10:03 INFO     This was regular record:['8002', '丸紅', '丸紅（株）', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8015
+豊田通商
+豊田通商（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8015', '豊田通商', '豊田通商（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'8015', '豊田通商', '豊田通商（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['8015', '豊田通商', '豊田通商（株）', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8031
+三井物
+三井物産（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8031', '三井物', '三井物産（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'8031', '三井物', '三井物産（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['8031', '三井物', '三井物産（株）', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8053
+住友商
+住友商事（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8053', '住友商', '住友商事（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'住友商', '住友商事（株）', '8053'}
+2019-06-09 20:10:03 INFO     This was regular record:['8053', '住友商', '住友商事（株）', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8058
+三菱商
+三菱商事（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8058', '三菱商', '三菱商事（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'三菱商', '三菱商事（株）', '8058'}
+2019-06-09 20:10:03 INFO     This was regular record:['8058', '三菱商', '三菱商事（株）', '商社']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+建設
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '建設', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'建設'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:建設
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1721
+コムシスＨＤ
+コムシスホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1721', 'コムシスＨＤ', 'コムシスホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'コムシスホールディングス（株）', 'コムシスＨＤ', '1721'}
+2019-06-09 20:10:03 INFO     This was regular record:['1721', 'コムシスホールディングス（株）', 'コムシスＨＤ', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1801
+大成建
+大成建設（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1801', '大成建', '大成建設（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'大成建', '1801', '大成建設（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['1801', '大成建', '大成建設（株）', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1802
+大林組
+（株）大林組
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1802', '大林組', '（株）大林組', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'大林組', '1802', '（株）大林組'}
+2019-06-09 20:10:03 INFO     This was regular record:['1802', '大林組', '（株）大林組', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1803
+清水建
+清水建設（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1803', '清水建', '清水建設（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'1803', '清水建', '清水建設（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['1803', '清水建', '清水建設（株）', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1808
+長谷工
+（株）長谷工コーポレーション
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1808', '長谷工', '（株）長谷工コーポレーション', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'（株）長谷工コーポレーション', '1808', '長谷工'}
+2019-06-09 20:10:03 INFO     This was regular record:['1808', '長谷工', '（株）長谷工コーポレーション', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1812
+鹿島
+鹿島建設（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1812', '鹿島', '鹿島建設（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'鹿島建設（株）', '鹿島', '1812'}
+2019-06-09 20:10:03 INFO     This was regular record:['1812', '鹿島', '鹿島建設（株）', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1925
+ハウス
+大和ハウス工業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1925', 'ハウス', '大和ハウス工業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'1925', 'ハウス', '大和ハウス工業（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['1925', 'ハウス', '大和ハウス工業（株）', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1928
+積ハウス
+積水ハウス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1928', '積ハウス', '積水ハウス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'積水ハウス（株）', '積ハウス', '1928'}
+2019-06-09 20:10:03 INFO     This was regular record:['1928', '積ハウス', '積水ハウス（株）', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+1963
+日揮
+日揮（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '1963', '日揮', '日揮（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'日揮', '日揮（株）', '1963'}
+2019-06-09 20:10:03 INFO     This was regular record:['1963', '日揮', '日揮（株）', '建設']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+機械
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '機械', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'機械'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:機械
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+5631
+日製鋼
+（株）日本製鋼所
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '5631', '日製鋼', '（株）日本製鋼所', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'（株）日本製鋼所', '日製鋼', '5631'}
+2019-06-09 20:10:03 INFO     This was regular record:['5631', '日製鋼', '（株）日本製鋼所', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6103
+オークマ
+オークマ（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6103', 'オークマ', 'オークマ（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'オークマ（株）', 'オークマ', '6103'}
+2019-06-09 20:10:03 INFO     This was regular record:['6103', 'オークマ', 'オークマ（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6113
+アマダＨＤ
+（株）アマダホールディングス
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6113', 'アマダＨＤ', '（株）アマダホールディングス', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'6113', 'アマダＨＤ', '（株）アマダホールディングス'}
+2019-06-09 20:10:03 INFO     This was regular record:['6113', 'アマダＨＤ', '（株）アマダホールディングス', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6301
+コマツ
+（株）小松製作所
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6301', 'コマツ', '（株）小松製作所', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'コマツ', '（株）小松製作所', '6301'}
+2019-06-09 20:10:03 INFO     This was regular record:['6301', 'コマツ', '（株）小松製作所', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6302
+住友重
+住友重機械工業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6302', '住友重', '住友重機械工業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'6302', '住友重', '住友重機械工業（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['6302', '住友重', '住友重機械工業（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6305
+日立建機
+日立建機（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6305', '日立建機', '日立建機（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'6305', '日立建機', '日立建機（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['6305', '日立建機', '日立建機（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6326
+クボタ
+（株）クボタ
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6326', 'クボタ', '（株）クボタ', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'（株）クボタ', 'クボタ', '6326'}
+2019-06-09 20:10:03 INFO     This was regular record:['6326', 'クボタ', '（株）クボタ', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6361
+荏原
+（株）荏原製作所
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6361', '荏原', '（株）荏原製作所', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'（株）荏原製作所', '荏原', '6361'}
+2019-06-09 20:10:03 INFO     This was regular record:['6361', '荏原', '（株）荏原製作所', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6366
+千代建
+千代田化工建設（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6366', '千代建', '千代田化工建設（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'6366', '千代田化工建設（株）', '千代建'}
+2019-06-09 20:10:03 INFO     This was regular record:['6366', '千代建', '千代田化工建設（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6367
+ダイキン
+ダイキン工業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6367', 'ダイキン', 'ダイキン工業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ダイキン工業（株）', 'ダイキン', '6367'}
+2019-06-09 20:10:03 INFO     This was regular record:['6367', 'ダイキン', 'ダイキン工業（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6471
+日精工
+日本精工（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6471', '日精工', '日本精工（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'6471', '日本精工（株）', '日精工'}
+2019-06-09 20:10:03 INFO     This was regular record:['6471', '日本精工（株）', '日精工', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6472
+ＮＴＮ
+ＮＴＮ（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6472', 'ＮＴＮ', 'ＮＴＮ（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'6472', 'ＮＴＮ', 'ＮＴＮ（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['6472', 'ＮＴＮ', 'ＮＴＮ（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+6473
+ジェイテクト
+（株）ジェイテクト
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '6473', 'ジェイテクト', '（株）ジェイテクト', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'6473', 'ジェイテクト', '（株）ジェイテクト'}
+2019-06-09 20:10:03 INFO     This was regular record:['6473', 'ジェイテクト', '（株）ジェイテクト', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7004
+日立造
+日立造船（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7004', '日立造', '日立造船（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'日立造船（株）', '7004', '日立造'}
+2019-06-09 20:10:03 INFO     This was regular record:['7004', '日立造', '日立造船（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7011
+三菱重
+三菱重工業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7011', '三菱重', '三菱重工業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'三菱重', '7011', '三菱重工業（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['7011', '三菱重', '三菱重工業（株）', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7013
+ＩＨＩ
+（株）ＩＨＩ
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7013', 'ＩＨＩ', '（株）ＩＨＩ', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＩＨＩ', '（株）ＩＨＩ', '7013'}
+2019-06-09 20:10:03 INFO     This was regular record:['7013', '（株）ＩＨＩ', 'ＩＨＩ', '機械']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+造船
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '造船', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'造船'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:造船
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '造船']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7003
+三井Ｅ＆Ｓ
+（株）三井Ｅ＆Ｓホールディングス
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7003', '三井Ｅ＆Ｓ', '（株）三井Ｅ＆Ｓホールディングス', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'（株）三井Ｅ＆Ｓホールディングス', '三井Ｅ＆Ｓ', '7003'}
+2019-06-09 20:10:03 INFO     This was regular record:['7003', '三井Ｅ＆Ｓ', '（株）三井Ｅ＆Ｓホールディングス', '造船']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7012
+川重
+川崎重工業（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7012', '川重', '川崎重工業（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'川崎重工業（株）', '川重', '7012'}
+2019-06-09 20:10:03 INFO     This was regular record:['7012', '川崎重工業（株）', '川重', '造船']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+その他製造
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'その他製造', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'その他製造'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:その他製造
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', 'その他製造']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7911
+凸版
+凸版印刷（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7911', '凸版', '凸版印刷（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'7911', '凸版', '凸版印刷（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['7911', '凸版', '凸版印刷（株）', 'その他製造']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7912
+大日印
+大日本印刷（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7912', '大日印', '大日本印刷（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'7912', '大日印', '大日本印刷（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['7912', '大日印', '大日本印刷（株）', 'その他製造']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+7951
+ヤマハ
+ヤマハ（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '7951', 'ヤマハ', 'ヤマハ（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'7951', 'ヤマハ', 'ヤマハ（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['7951', 'ヤマハ', 'ヤマハ（株）', 'その他製造']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+不動産
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '不動産', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'不動産'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:不動産
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '不動産']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+3289
+東急不ＨＤ
+東急不動産ホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '3289', '東急不ＨＤ', '東急不動産ホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'東急不動産ホールディングス（株）', '東急不ＨＤ', '3289'}
+2019-06-09 20:10:03 INFO     This was regular record:['3289', '東急不動産ホールディングス（株）', '東急不ＨＤ', '不動産']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8801
+三井不
+三井不動産（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8801', '三井不', '三井不動産（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'三井不動産（株）', '三井不', '8801'}
+2019-06-09 20:10:03 INFO     This was regular record:['8801', '三井不', '三井不動産（株）', '不動産']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8802
+菱地所
+三菱地所（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8802', '菱地所', '三菱地所（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'三菱地所（株）', '8802', '菱地所'}
+2019-06-09 20:10:03 INFO     This was regular record:['8802', '三菱地所（株）', '菱地所', '不動産']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8804
+東建物
+東京建物（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8804', '東建物', '東京建物（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'東建物', '8804', '東京建物（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['8804', '東京建物（株）', '東建物', '不動産']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+8830
+住友不
+住友不動産（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '8830', '住友不', '住友不動産（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'8830', '住友不', '住友不動産（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['8830', '住友不', '住友不動産（株）', '不動産']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+鉄道・バス
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '鉄道・バス', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'鉄道・バス'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:鉄道・バス
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9001
+東武
+東武鉄道（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9001', '東武', '東武鉄道（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'東武', '東武鉄道（株）', '9001'}
+2019-06-09 20:10:03 INFO     This was regular record:['9001', '東武', '東武鉄道（株）', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9005
+東急
+東京急行電鉄（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9005', '東急', '東京急行電鉄（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'東急', '9005', '東京急行電鉄（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['9005', '東京急行電鉄（株）', '東急', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9007
+小田急
+小田急電鉄（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9007', '小田急', '小田急電鉄（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'小田急電鉄（株）', '小田急', '9007'}
+2019-06-09 20:10:03 INFO     This was regular record:['9007', '小田急', '小田急電鉄（株）', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9008
+京王
+京王電鉄（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9008', '京王', '京王電鉄（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'9008', '京王', '京王電鉄（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['9008', '京王', '京王電鉄（株）', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9009
+京成
+京成電鉄（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9009', '京成', '京成電鉄（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'京成', '京成電鉄（株）', '9009'}
+2019-06-09 20:10:03 INFO     This was regular record:['9009', '京成', '京成電鉄（株）', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9020
+ＪＲ東日本
+東日本旅客鉄道（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9020', 'ＪＲ東日本', '東日本旅客鉄道（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＪＲ東日本', '9020', '東日本旅客鉄道（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['9020', '東日本旅客鉄道（株）', 'ＪＲ東日本', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9021
+ＪＲ西日本
+西日本旅客鉄道（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9021', 'ＪＲ西日本', '西日本旅客鉄道（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＪＲ西日本', '西日本旅客鉄道（株）', '9021'}
+2019-06-09 20:10:03 INFO     This was regular record:['9021', '西日本旅客鉄道（株）', 'ＪＲ西日本', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9022
+ＪＲ東海
+東海旅客鉄道（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9022', 'ＪＲ東海', '東海旅客鉄道（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＪＲ東海', '東海旅客鉄道（株）', '9022'}
+2019-06-09 20:10:03 INFO     This was regular record:['9022', '東海旅客鉄道（株）', 'ＪＲ東海', '鉄道・バス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+陸運
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '陸運', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'陸運'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:陸運
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '陸運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9062
+日通
+日本通運（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9062', '日通', '日本通運（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'日本通運（株）', '9062', '日通'}
+2019-06-09 20:10:03 INFO     This was regular record:['9062', '日本通運（株）', '日通', '陸運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9064
+ヤマトＨＤ
+ヤマトホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9064', 'ヤマトＨＤ', 'ヤマトホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'9064', 'ヤマトホールディングス（株）', 'ヤマトＨＤ'}
+2019-06-09 20:10:03 INFO     This was regular record:['9064', 'ヤマトホールディングス（株）', 'ヤマトＨＤ', '陸運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+海運
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '海運', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'海運'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:海運
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '海運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9101
+郵船
+日本郵船（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9101', '郵船', '日本郵船（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'9101', '郵船', '日本郵船（株）'}
+2019-06-09 20:10:03 INFO     This was regular record:['9101', '日本郵船（株）', '郵船', '海運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9104
+商船三井
+（株）商船三井
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9104', '商船三井', '（株）商船三井', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'（株）商船三井', '9104', '商船三井'}
+2019-06-09 20:10:03 INFO     This was regular record:['9104', '商船三井', '（株）商船三井', '海運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9107
+川崎汽
+川崎汽船（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9107', '川崎汽', '川崎汽船（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'川崎汽船（株）', '9107', '川崎汽'}
+2019-06-09 20:10:03 INFO     This was regular record:['9107', '川崎汽', '川崎汽船（株）', '海運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+空運
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '空運', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'空運'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:空運
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '空運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9202
+ＡＮＡＨＤ
+ＡＮＡホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9202', 'ＡＮＡＨＤ', 'ＡＮＡホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ＡＮＡホールディングス（株）', '9202', 'ＡＮＡＨＤ'}
+2019-06-09 20:10:03 INFO     This was regular record:['9202', 'ＡＮＡホールディングス（株）', 'ＡＮＡＨＤ', '空運']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+倉庫
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '倉庫', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'倉庫'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:倉庫
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '倉庫']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9301
+三菱倉
+三菱倉庫（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9301', '三菱倉', '三菱倉庫（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'三菱倉', '三菱倉庫（株）', '9301'}
+2019-06-09 20:10:03 INFO     This was regular record:['9301', '三菱倉', '三菱倉庫（株）', '倉庫']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+電力
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '電力', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'電力'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:電力
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', '電力']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9501
+東電ＨＤ
+東京電力ホールディングス（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9501', '東電ＨＤ', '東京電力ホールディングス（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'東京電力ホールディングス（株）', '9501', '東電ＨＤ'}
+2019-06-09 20:10:03 INFO     This was regular record:['9501', '東京電力ホールディングス（株）', '東電ＨＤ', '電力']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9502
+中部電
+中部電力（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9502', '中部電', '中部電力（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'中部電', '中部電力（株）', '9502'}
+2019-06-09 20:10:03 INFO     This was regular record:['9502', '中部電', '中部電力（株）', '電力']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9503
+関西電
+関西電力（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9503', '関西電', '関西電力（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'関西電', '関西電力（株）', '9503'}
+2019-06-09 20:10:03 INFO     This was regular record:['9503', '関西電', '関西電力（株）', '電力']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+ガス
+
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'ガス', '', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'ガス'}
+2019-06-09 20:10:03 INFO     The record contains industry_name:ガス
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+コード
+銘柄名
+社名
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', 'コード', '銘柄名', '社名', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'銘柄名', 'コード', '社名'}
+2019-06-09 20:10:03 INFO     This was regular record:['コード', '社名', '銘柄名', 'ガス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9531
+東ガス
+東京瓦斯（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9531', '東ガス', '東京瓦斯（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'9531', '東京瓦斯（株）', '東ガス'}
+2019-06-09 20:10:03 INFO     This was regular record:['9531', '東ガス', '東京瓦斯（株）', 'ガス']
+2019-06-09 20:10:03 INFO     Raw record:
+2019-06-09 20:10:03 INFO     Raw record:
+9532
+大ガス
+大阪瓦斯（株）
+
+2019-06-09 20:10:03 INFO     Initial record as list:['', '9532', '大ガス', '大阪瓦斯（株）', '']
+2019-06-09 20:10:03 INFO     After converting to set and removing empty strings:{'大阪瓦斯（株）', '大ガス', '9532'}
+2019-06-09 20:10:03 INFO     This was regular record:['9532', '大ガス', '大阪瓦斯（株）', 'ガス']
+2019-06-09 20:10:03 INFO     Raw record:
