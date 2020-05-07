@@ -5,14 +5,14 @@ from stocks.yahoo_stock_parser import YahooStockParser
 import datetime
 import logging
 from config import Config
-from sqlalchemy import create_engine, Table, MetaData, Date, Integer, String
+from sqlalchemy import create_engine, Table, MetaData, Date, Integer,Float, String
 
 logging.basicConfig()
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-start = datetime.date(2006, 3, 31)
-end = datetime.date(2006, 4, 30)
+start = datetime.date(2020, 3, 31)
+end = datetime.date(2020, 4, 30)
 
 engine = create_engine(Config.db_uri)
 meta = MetaData()
@@ -31,7 +31,7 @@ topix_core30_df = topix_df.loc[topix_df['New Index Series Code'] == 'TOPIX Core3
 
 topix_small_eq_px_df_list = []
 
-for i, ticker in enumerate(topix_small_one_df['ticker'].unique().tolist()):
+for i, ticker in enumerate(topix_small_one_df['ticker'].unique().tolist()[:1]):
     logging.info(f"{i} : {ticker} start processing ....")
     yahoo_parser = YahooStockParser(ticker, start, end)
     eq_px_df = yahoo_parser.get_all_stock_dataframe()
@@ -40,4 +40,4 @@ for i, ticker in enumerate(topix_small_one_df['ticker'].unique().tolist()):
 topix_small_eq_px_df = pd.concat(topix_small_eq_px_df_list)
 logging.info(f"Topix small 500 prices from {start} to {end} {len(topix_small_eq_px_df)}")
 
-# topix_small_eq_px_df.to_sql("eq_prices", engine, index=False, if_exists="append", dtype={"adate": Date, "px_open": Integer, "px_high": Integer, "px_low": Integer, "px_close": Integer, "volume": Integer, "px_close_after_adj": Integer, "ticker": String})
+# topix_small_eq_px_df.to_sql("eq_prices", engine, index=False, if_exists="append", dtype={"adate": Date, "px_open": Float, "px_high": Float, "px_low": Float, "px_close": Float, "volume": Integer, "px_close_after_adj": Float, "ticker": String})
