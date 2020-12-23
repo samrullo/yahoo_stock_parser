@@ -29,7 +29,7 @@ logging.info(f"By New Index Series Code count\n{topix_df.groupby('New Index Seri
 topix_small_one_df = topix_df.loc[topix_df['New Index Series Code'] == "TOPIX Small 1"].copy()
 topix_core30_df = topix_df.loc[topix_df['New Index Series Code'] == 'TOPIX Core30'].copy()
 
-for i, ticker in enumerate(topix_small_one_df['ticker'].unique().tolist()[1:]):
+for i, ticker in enumerate(topix_core30_df['ticker'].unique().tolist()):
     logging.info(f"{i} : {ticker} started processing ...")
     eq_ret_obj = EquityReturnCalculator(engine, ticker, start, end)
     eq_px_df = eq_ret_obj.get_eq_prices()
