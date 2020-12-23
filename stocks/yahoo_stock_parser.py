@@ -23,6 +23,13 @@ class YahooStockParser:
         self.start = start
         self.end = end
         self.url = f'https://info.finance.yahoo.co.jp/history/?code={ticker}&sy={start.year}&sm={start.month}&sd={start.day}&ey={end.year}&em={end.month}&ed={end.day}&tm=d&p=1'
+        self.profile_url = f"https://stocks.finance.yahoo.co.jp/stocks/profile/?code={self.ticker}"
+        self.profile_fields = {"特色": "features", "連結事業": "consolidated_business", "本社所在地": "headquarters",
+                               "最寄り駅": "closest_station", "電話番号": "phone", "業種分類": "industry",
+                               "英文社名": "company_name_en", "代表者名": "ceo", "設立年月日": "founded_date",
+                               "市場名": "listed_market", "上場年月日": "ipo_date", "決算": "settlement_date", "単元株数": "number_of_shares_per_transaction",
+                               "従業員数（単独）": "number_of_employees_single", "従業員数（連結）": "number_of_employees_consolidated",
+                               "平均年齢": "average_age", "平均年収": "average_annual_salary"}
         self.stock_name = self.get_stock_name()
         logging.info(f"Initialized Yahoo Stock Parser for {self.ticker} : {self.stock_name} for the period {self.start} to {self.end}")
 
@@ -82,12 +89,16 @@ class YahooStockParser:
         Get stock name by parsing title of the html of the first page for stock ticker
         :return:
         """
-        html = self.get_html_from_url(self.url)
-        soup = BeautifulSoup(html, 'lxml')
-        stock_name_patterns = re.findall(".*株", soup.title.get_text())
-        if len(stock_name_patterns) > 0:
-            return stock_name_patterns[0]
-        else:
+        try:
+            html = self.get_html_from_url(self.url)
+            soup = BeautifulSoup(html, 'lxml')
+            stock_name_patterns = re.findall(".*株", soup.title.get_text())
+            if len(stock_name_patterns) > 0:
+                return stock_name_patterns[0]
+            else:
+                return "NOSTOCKNAMEFOUND"
+        except Exception as e:
+            logging.info(f"error : {e}")
             return "NOSTOCKNAMEFOUND"
 
     def generate_stock_dataframe_from_html(self, html):
@@ -143,3 +154,60 @@ class YahooStockParser:
             return stock_all_df
         else:
             return False
+
+    def get_company_profile(self):
+        html = self.get_html_from_url(self.profile_url)
+        soup = BeautifulSoup(html, "lxml")
+        tables = soup.find_all('table', attrs={'class': 'boardFinCom'})
+        table = tables[0]
+        rows = table.find_all('tr')
+        profile = {'ticker': self.ticker}
+        for row in rows:
+            ths = row.find_all('th')
+            tds = row.find_all('td')
+            if len(ths) > 1:
+                if "従業員数" in ths[0].get_text():
+                    number_of_employees_single = tds[0].get_text().replace("人", "")
+                    number_of_employees_consolidated = tds[1].get_text().replace("人", "")
+                    if number_of_employees_single == '-':
+                        profile['number_of_employees_single'] = 0
+                        profile['number_of_employees_consolidated'] = 0
+                    elif number_of_employees_consolidated == '-':
+                        profile['number_of_employees_single'] = self.convert_comma_seperated_number_string_to_integer(number_of_employees_single)
+                        profile['number_of_employees_consolidated'] = profile['number_of_employees_single']
+                    else:
+                        profile['number_of_employees_single'] = self.convert_comma_seperated_number_string_to_integer(number_of_employees_single)
+                        profile['number_of_employees_consolidated'] = self.convert_comma_seperated_number_string_to_integer(number_of_employees_consolidated)
+                    logging.debug(f"number_of_employees single : {profile['number_of_employees_single']}, number_of_employees_consolidated : {profile['number_of_employees_consolidated']}")
+                if "平均" in ths[0].get_text():
+                    average_age = tds[0].get_text().replace("歳", "")
+                    average_annual_salary = tds[1].get_text().replace("千円", "")
+                    if '‐' not in average_age and '-' not in average_age:
+                        profile['average_age'] = self.convert_comma_seperated_number_string_to_float(average_age)
+                    else:
+                        profile['average_age'] = 0
+                    if '‐' not in average_annual_salary and '-' not in average_annual_salary:
+                        profile['average_annual_salary'] = self.convert_comma_seperated_number_string_to_integer(average_annual_salary) * 1000
+                    else:
+                        profile['average_annual_salary'] = 0
+                    logging.debug(f"average age : {profile['average_age']}, average annual salary : {profile['average_annual_salary']}")
+            else:
+                if "設立年月日" in ths[0].get_text():
+                    founded_date_str = tds[0].get_text().strip()
+                    if "日" not in founded_date_str:
+                        founded_date_str += "1日"
+                    profile['founded_date'] = self.get_date_from_japanese_date(founded_date_str)
+                    logging.debug(f"founded date : {profile['founded_date']}")
+                elif "上場年月日" in ths[0].get_text():
+                    ipo_date_str = tds[0].get_text().strip()
+                    if "日" not in ipo_date_str:
+                        ipo_date_str += "1日"
+                    logging.debug(f"trying to convert ipo date {ipo_date_str} to datetime.date")
+                    profile['ipo_date'] = self.get_date_from_japanese_date(ipo_date_str)
+                    logging.debug(f"ipo date : {profile['ipo_date']}")
+                elif "単元株数" in ths[0].get_text():
+                    profile['number_of_shares_per_transaction'] = int(tds[0].get_text().strip().replace("株", ""))
+                    logging.debug(f"number of shares per transaction : {profile['number_of_shares_per_transaction']}")
+                else:
+                    profile[self.profile_fields[ths[0].get_text().strip()]] = tds[0].get_text().strip()
+        return profile
