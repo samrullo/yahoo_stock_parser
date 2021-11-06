@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81ab1cf1-6adf-4849-b0ff-613df27c6e03" name="Default Changelist" comment="yahoo equity parsing">
-      <change afterPath="$PROJECT_DIR$/header.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/dump_company_profiles_to_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/experiment_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/get_eq_prices_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/view_eq_prices_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stocks/topix_sec_master_to_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/topix_30_eda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/yahoo_parser_to_get_ms_id_stock_price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yahoo_finance_api_stock_px/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yahoo_finance_api_stock_px/get_stock_px_with_yahoo_finance_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="81ab1cf1-6adf-4849-b0ff-613df27c6e03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/stock.db" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/stock.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stocks/stock_db_related.py" beforeDir="false" afterPath="$PROJECT_DIR$/stocks/eq_db_tables_creation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stocks/yahoo_stock_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/stocks/yahoo_stock_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/equity_return_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/equity_return_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/yahoo_stock_parser_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/jeq_stocks_workspace/dump_eq_prices_to_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +13,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stocks/yahoo_stock_parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+            <state relative-caret-position="-487">
+              <caret line="126" column="41" selection-start-line="126" selection-start-column="41" selection-end-line="126" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/header.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="3" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -53,6 +69,8 @@
     <findStrings>
       <find>_unpack</find>
       <find>get_px_series</find>
+      <find>BeautifulSoup</find>
+      <find>IPAexGothic</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -84,17 +102,17 @@
         <option value="$PROJECT_DIR$/stocks/yahoo_stock_parser.py" />
         <option value="$PROJECT_DIR$/stocks/eq_db_tables_creation.py" />
         <option value="$PROJECT_DIR$/jeq_stocks_workspace/dump_company_profiles_to_db.py" />
-        <option value="$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py" />
         <option value="$PROJECT_DIR$/jeq_stocks_workspace/view_eq_prices_00.py" />
         <option value="$PROJECT_DIR$/jeq_stocks_workspace/get_eq_prices_00.py" />
         <option value="$PROJECT_DIR$/jeq_stocks_workspace/dump_eq_prices_to_db.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="109" />
-    <option name="y" value="47" />
+    <option name="x" value="375" />
+    <option name="y" value="104" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -104,12 +122,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="stocks" type="b2602c69:ProjectViewProjectNode" />
               <item name="stocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stocks" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stocks" type="b2602c69:ProjectViewProjectNode" />
@@ -135,7 +159,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dump_eq_prices_to_db">
+  <component name="RunManager" selected="Python.company_profiles_analyse">
     <configuration name="company_profiles_analyse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stocks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="view_eq_prices_00" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="header" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stocks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jeq_stocks_workspace" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jeq_stocks_workspace/view_eq_prices_00.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/header.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.company_profiles_analyse" />
+        <item itemvalue="Python.header" />
         <item itemvalue="Python.dump_eq_prices_to_db" />
         <item itemvalue="Python.get_eq_prices_00" />
         <item itemvalue="Python.company_profiles_analyse" />
-        <item itemvalue="Python.experiment_00" />
-        <item itemvalue="Python.view_eq_prices_00" />
       </list>
     </recent_temporary>
   </component>
@@ -293,15 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588813741346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="yahoo equity parsing">
+      <created>1608685179310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608685179310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112223394" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49404117" visible="true" weight="0.13119073" />
+      <window_info id="Structure" order="1" sideWeight="0.50595886" side_tool="true" weight="0.13119073" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -313,7 +342,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.44637054" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.36836404" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -354,16 +383,6 @@
           <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding>
             <element signature="e#85#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stocks/nikkei225_scraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -409,9 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/stock_db_testing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -426,16 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="29" column="87" selection-start-line="29" selection-start-column="87" selection-end-line="29" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stocks/stocks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-392">
-          <caret line="36" column="189" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="189" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,16 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stocks/yahoo_stock_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2669">
-          <caret line="163" column="40" selection-start-line="163" selection-start-column="40" selection-end-line="163" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jeq_stocks_workspace/dump_eq_prices_to_db.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -516,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jeq_stocks_workspace/view_eq_prices_00.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -530,20 +519,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.py">
+    <entry file="file://$PROJECT_DIR$/stocks/stocks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="561">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stocks/nikkei225_scraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
+        <state relative-caret-position="777">
           <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stocks/yahoo_stock_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-487">
+          <caret line="126" column="41" selection-start-line="126" selection-start-column="41" selection-end-line="126" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="3" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
