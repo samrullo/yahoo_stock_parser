@@ -1,60 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ab1cf1-6adf-4849-b0ff-613df27c6e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/datasets/TOPIX_weight_jp.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/save_eq_data_into_mysql.py" afterDir="false" />
+    <list default="true" id="81ab1cf1-6adf-4849-b0ff-613df27c6e03" name="Default Changelist" comment="yahoo equity parsing">
+      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/eq_returns_cleanup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeq_stocks_workspace/generate_and_save_daily_returns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stocks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stocks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/stock.db" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/stock.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.py" beforeDir="false" afterPath="$PROJECT_DIR$/header.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeq_stocks_workspace/dump_eq_prices_to_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/jeq_stocks_workspace/dump_eq_prices_to_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeq_stocks_workspace/view_eq_prices_00.py" beforeDir="false" afterPath="$PROJECT_DIR$/jeq_stocks_workspace/view_eq_prices_00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks/yahoo_stock_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/stocks/yahoo_stock_parser.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jeq_stocks_workspace/save_eq_data_into_mysql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jeq_stocks_workspace/company_profiles_analyse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="84" lean-forward="true" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,12 +76,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="375" />
     <option name="y" value="104" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="2oN7KdKClaxpHBJFiXzTuW6d3xI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -161,7 +131,14 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -170,19 +147,7 @@
       <recent name="C:\Users\amrul\PycharmProjects\stocks\jeq_stocks_workspace" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.save_eq_data_into_mysql">
+  <component name="RunManager" selected="Python.view_eq_prices_00">
     <configuration name="company_profiles_analyse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stocks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,49 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_eq_prices_00" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="stocks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jeq_stocks_workspace" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jeq_stocks_workspace/get_eq_prices_00.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="header" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="stocks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/header.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="save_eq_data_into_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="eq_returns_cleanup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="stocks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,7 +199,43 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jeq_stocks_workspace/save_eq_data_into_mysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jeq_stocks_workspace/eq_returns_cleanup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_and_save_daily_returns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stocks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jeq_stocks_workspace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jeq_stocks_workspace/generate_and_save_daily_returns.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="view_eq_prices_00" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stocks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jeq_stocks_workspace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jeq_stocks_workspace/view_eq_prices_00.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,14 +246,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.save_eq_data_into_mysql" />
-        <item itemvalue="Python.company_profiles_analyse" />
-        <item itemvalue="Python.header" />
+        <item itemvalue="Python.view_eq_prices_00" />
+        <item itemvalue="Python.generate_and_save_daily_returns" />
+        <item itemvalue="Python.eq_returns_cleanup" />
         <item itemvalue="Python.dump_eq_prices_to_db" />
-        <item itemvalue="Python.get_eq_prices_00" />
+        <item itemvalue="Python.company_profiles_analyse" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -351,6 +311,20 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="save equity prices and daily returns to sqlite database" />

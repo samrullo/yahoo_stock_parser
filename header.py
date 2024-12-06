@@ -18,5 +18,5 @@ end = datetime.date(2020, 4, 30)
 
 engine = create_engine(Config.db_uri)
 meta = MetaData()
-eq_px_tbl = Table("eq_prices", meta, autoload=True, autoload_with=engine)
+eq_px_tbl = Table("eq_prices", meta, autoload_with=engine)
 con = engine.connect()
