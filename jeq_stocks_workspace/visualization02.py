@@ -1,60 +1,37 @@
-import pandas as pd
-
 from header import *
 import matplotlib.pyplot as plt
 import matplotlib
+from sampytools.configdict import ConfigDict
+from sampytools.list_utils import generate_comma_separated_text
+from sampytools.datetime_utils import to_yyyymmdd
+from utils.analytics import ewma_volatility
 
 matplotlib.use('Qt5Agg')
 
 plt.ion()
 
-ticker = "7203.T"
-pxdf = pd.read_sql(f"SELECT * FROM `eq_prices` WHERE ticker like '{ticker}'", engine)
-eqretdf = pd.read_sql(f"SELECT * FROM eq_returns WHERE ticker like '{ticker}'", engine)
+tickers = ["9551.T", "9531.T"]
+pxdf = pd.read_sql(f"SELECT * FROM `eq_prices` WHERE ticker in ({generate_comma_separated_text(tickers)})", engine)
+eqretdf = pd.read_sql(f"SELECT * FROM eq_returns WHERE ticker in ({generate_comma_separated_text(tickers)})", engine)
+eqretdf["adate"] = pd.to_datetime(eqretdf["adate"])
 
-logging.info(f"{ticker} has {len(pxdf):,} prices and {len(eqretdf):,} returns")
+d = ConfigDict({})
+d["one"]["ticker"] = tickers[0]
+d["two"]["ticker"] = tickers[1]
 
-eqretdf.index = eqretdf["adate"]
-eqretdf.index = pd.to_datetime(eqretdf.index)
-eqretdf[["daily_ret"]].plot(kind="line")
+for label in ["one", "two"]:
+    ticker = d[label]["ticker"]
+    crdf = eqretdf[eqretdf["ticker"] == ticker].copy()
+    crdf.index = crdf["adate"]
+    subcrdf = crdf.loc["2024"]
+    subcrdf["vol"] = ewma_volatility(subcrdf["daily_ret"], decay_factor=0.94)
+    d[label]["crdf"] = crdf
+    d[label]["subcrdf"] = subcrdf
 
-subretdf = eqretdf.loc["2024"]
-
-
-def ewma_volatility(returns, decay_factor=0.94):
-    """
-    Calculate EWMA volatility from a series of returns.
-
-    Parameters:
-    - returns: A pandas Series of returns (daily, monthly, etc.)
-    - decay_factor: Lambda, the smoothing parameter (default = 0.94).
-
-    Returns:
-    - ewma_vol: A pandas Series of EWMA volatility.
-    """
-    # Initialize EWMA variance with the first squared return
-    ewma_variance = [returns.iloc[0] ** 2]
-
-    # Compute EWMA variance recursively
-    for ret in returns.iloc[1:]:
-        ewma_variance.append(decay_factor * ewma_variance[-1] + (1 - decay_factor) * ret ** 2)
-
-    # Convert variance to volatility
-    ewma_vol = pd.Series(np.sqrt(ewma_variance), index=returns.index)
-    return ewma_vol
-
-
-def ewma_vols(returns, decay_factor=0.94):
-    # Calculate EWMA Variance using Pandas `.ewm()`
-    ewma_variance = returns.ewm(span=(2 / (1 - decay_factor) - 1)).var()
-
-    # Calculate EWMA Volatility (square root of variance)
-    ewma_volatility = np.sqrt(ewma_variance)
-    return ewma_volatility
-
-
-returns = subretdf["daily_ret"]
-vols = ewma_volatility(returns, decay_factor=0.94)
-vols2 = ewma_vols(returns, decay_factor=0.94)
-df = pd.DataFrame({"returns": returns, "vol1": vols, "vol2": vols2})
-df.plot()
+df = pd.DataFrame({"one_vol": d["one"]["subcrdf"]["vol"], "two_vol": d["two"]["subcrdf"]["vol"]})
+df.index = d["one"]["subcrdf"].index
+axes = df.plot(subplots=True, figsize=(10, 6), sharey=True, title=[d["one"]["ticker"], d["two"]["ticker"]])
+for ax in axes:
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Volatility")
+    ax.grid(True)
