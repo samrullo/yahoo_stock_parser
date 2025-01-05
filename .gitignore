@@ -140,3 +140,4 @@ cython_debug/
 .idea/
 
 datasets/stock.db
+__pycache__
