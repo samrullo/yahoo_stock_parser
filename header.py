@@ -1,4 +1,5 @@
 import os
+import pathlib
 from sampytools.configdict import ConfigDict
 import pandas as pd
 import numpy as np

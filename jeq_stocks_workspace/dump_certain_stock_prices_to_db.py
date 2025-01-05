@@ -1,5 +1,6 @@
 from tqdm import tqdm
 import os
+import pathlib
 import pandas as pd
 import numpy as np
 from stocks.yahoo_stock_parser import YahooStockParser
@@ -14,7 +15,7 @@ logging.basicConfig(
     handlers=[logging.FileHandler("dump_eq_prices.log"), logging.StreamHandler()]
 )
 
-start = datetime.date(2024, 11, 19)
+start = datetime.date(2019, 1, 1)
 end = datetime.date(2024, 12, 31)
 
 engine = create_engine(Config.db_uri)
@@ -22,14 +23,11 @@ meta = MetaData()
 eq_px_tbl = Table("eq_prices", meta, autoload_with=engine)
 con = engine.connect()
 
-topix_df = pd.read_csv(Config.base_folder / "datasets" / "topixweight_e_20241031.csv", encoding="latin1")
-topix_df['ticker'] = topix_df['Code'].apply(str).map(lambda topix_code: topix_code + ".T")
-logging.info(f"Total of {len(topix_df)} equities in TOPIX")
-logging.info(f"By New Index Series Code count\n{topix_df.groupby('New Index Series Code').count()['Issue']}")
-
 topix_eq_px_df_list = []
 
-tickers = topix_df['ticker'].unique().tolist()
+tickers_file = pathlib.Path(
+    r"C:\Users\amrul\programming\various_projects\yahoo_stock_parser\datasets\added_tickers.txt")
+tickers = tickers_file.read_text().split("\n")
 
 with tqdm(total=len(tickers)) as pbar:
     for i, ticker in enumerate(tickers):
@@ -44,7 +42,3 @@ with tqdm(total=len(tickers)) as pbar:
 
 topix_eq_px_df = pd.concat(topix_eq_px_df_list)
 logging.info(f"Topix eq prices from {start} to {end} {len(topix_eq_px_df)}")
-
-# topix_eq_px_df.to_sql("eq_prices", engine, index=False, if_exists="append",
-#                       dtype={"adate": Date, "px_open": Float, "px_high": Float, "px_low": Float, "px_close": Float,
-#                              "volume": Integer, "px_close_after_adj": Float, "ticker": String})
