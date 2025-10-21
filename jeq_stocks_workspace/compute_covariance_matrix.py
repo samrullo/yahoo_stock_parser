@@ -4,11 +4,15 @@ from sampytools.list_utils import generate_comma_separated_text
 from utils.analytics import ewma_volatility
 
 # I want to compute mean return and volatilities of TOPIX Core30 stocks
-eqsmdf = pd.read_sql("SELECT * FROM eq_sec_master WHERE new_index_series_code_en='TOPIX Core30'", engine)
+eqsmdf = pd.read_sql(
+    "SELECT * FROM eq_sec_master WHERE new_index_series_code_en='TOPIX Core30'", engine
+)
 logging.info(f"Fetched eq sec_master : {len(eqsmdf)}")
 
 crdf = pd.read_sql(
-    f"SELECT * FROM eq_returns WHERE ticker in ({generate_comma_separated_text(eqsmdf.ticker.unique())})", engine)
+    f"SELECT * FROM eq_returns WHERE ticker in ({generate_comma_separated_text(eqsmdf.ticker.unique())})",
+    engine,
+)
 logging.info(f"Fetched {len(crdf):,} daily returns")
 crdf["adate"] = pd.to_datetime(crdf["adate"])
 

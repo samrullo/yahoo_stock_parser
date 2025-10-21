@@ -11,8 +11,8 @@ from sqlalchemy import create_engine, Table, MetaData, Date, Integer, Float, Str
 
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[logging.FileHandler("dump_eq_prices.log"), logging.StreamHandler()]
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[logging.FileHandler("dump_eq_prices.log"), logging.StreamHandler()],
 )
 
 start = datetime.date(2019, 1, 1)
@@ -26,7 +26,8 @@ con = engine.connect()
 topix_eq_px_df_list = []
 
 tickers_file = pathlib.Path(
-    r"C:\Users\amrul\programming\various_projects\yahoo_stock_parser\datasets\added_tickers.txt")
+    r"C:\Users\amrul\programming\various_projects\yahoo_stock_parser\datasets\added_tickers.txt"
+)
 tickers = tickers_file.read_text().split("\n")
 
 with tqdm(total=len(tickers)) as pbar:
@@ -34,9 +35,22 @@ with tqdm(total=len(tickers)) as pbar:
         pbar.set_description(f"{i} : {ticker} start processing ....")
         yahoo_parser = YahooStockParser(ticker, start, end)
         eq_px_df = yahoo_parser.get_all_stock_dataframe()
-        eq_px_df.to_sql("eq_prices", engine, index=False, if_exists="append",
-                        dtype={"adate": Date, "px_open": Float, "px_high": Float, "px_low": Float, "px_close": Float,
-                               "volume": Integer, "px_close_after_adj": Float, "ticker": String})
+        eq_px_df.to_sql(
+            "eq_prices",
+            engine,
+            index=False,
+            if_exists="append",
+            dtype={
+                "adate": Date,
+                "px_open": Float,
+                "px_high": Float,
+                "px_low": Float,
+                "px_close": Float,
+                "volume": Integer,
+                "px_close_after_adj": Float,
+                "ticker": String,
+            },
+        )
         topix_eq_px_df_list.append(eq_px_df)
         pbar.update(1)
 

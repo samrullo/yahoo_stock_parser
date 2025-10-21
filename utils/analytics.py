@@ -18,7 +18,9 @@ def ewma_volatility(returns: pd.Series, decay_factor: float = 0.94):
 
     # Compute EWMA variance recursively
     for ret in returns.iloc[1:]:
-        ewma_variance.append(decay_factor * ewma_variance[-1] + (1 - decay_factor) * ret ** 2)
+        ewma_variance.append(
+            decay_factor * ewma_variance[-1] + (1 - decay_factor) * ret**2
+        )
 
     # Convert variance to volatility
     ewma_vol = pd.Series(np.sqrt(ewma_variance), index=returns.index)

@@ -11,4 +11,4 @@ logging.info(f"number of days : {eq_px_df['adate'].nunique():,}")
 logging.info(f"distinct number of equities : {eq_px_df['ticker'].nunique()}")
 
 # let's compute means and standard deviations based on raw px_close and plot results
-grpdf = eq_px_df.groupby("ticker")["px_close"].agg(['mean', 'std'])
+grpdf = eq_px_df.groupby("ticker")["px_close"].agg(["mean", "std"])

@@ -5,7 +5,16 @@ from stocks.yahoo_stock_parser import YahooStockParser
 import datetime
 import logging
 from config import Config
-from sqlalchemy import create_engine, Table, MetaData, Date, Integer,Float, String,select
+from sqlalchemy import (
+    create_engine,
+    Table,
+    MetaData,
+    Date,
+    Integer,
+    Float,
+    String,
+    select,
+)
 
 logging.basicConfig()
 logger = logging.getLogger()

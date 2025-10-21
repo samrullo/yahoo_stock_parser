@@ -13,7 +13,7 @@ logging.info(f"number of days : {eq_px_df['adate'].nunique()}")
 logging.info(f"distinct number of equities : {eq_px_df['ticker'].nunique()}")
 
 # let's compute means and standard deviations based on raw px_close and plot results
-grpdf = eq_px_df.groupby("ticker")["px_close"].agg(['mean', 'std'])
+grpdf = eq_px_df.groupby("ticker")["px_close"].agg(["mean", "std"])
 
 # let's calculate equity daily returns using pct_change method
 eqret_table_name = "eq_returns"
@@ -38,13 +38,26 @@ with tqdm(total=len(grpdf)) as pbar:
         crdf["price"] = subpxdf.iloc[1:]["px_close_after_adj"].values
         crdf["previous_price"] = subpxdf.iloc[:-1]["px_close_after_adj"].values
         crdf_list.append(crdf)
-        pbar.set_description(f"{ticker} calculated daily returns from {crdf.index.min()} to {crdf.index.max()}")
+        pbar.set_description(
+            f"{ticker} calculated daily returns from {crdf.index.min()} to {crdf.index.max()}"
+        )
         pbar.update(1)
-        crdf.to_sql(eqret_table_name, engine, index=False, if_exists="append",
-                    dtype={"adate": Date, "previous_date": Date, "ticker": String, "price": Float,
-                           "previous_price": Float, "daily_ret": Float})
+        crdf.to_sql(
+            eqret_table_name,
+            engine,
+            index=False,
+            if_exists="append",
+            dtype={
+                "adate": Date,
+                "previous_date": Date,
+                "ticker": String,
+                "price": Float,
+                "previous_price": Float,
+                "daily_ret": Float,
+            },
+        )
 crdf = pd.concat(crdf_list)
-crgrpdf = crdf.groupby(["ticker"])["daily_ret"].agg(['mean', 'std', 'count'])
+crgrpdf = crdf.groupby(["ticker"])["daily_ret"].agg(["mean", "std", "count"])
 print(f"min px returns : {crgrpdf['mean'].min()}")
 print(f"max px returns : {crgrpdf['mean'].max()}")
 print(f"min px returns std: {crgrpdf['std'].min()}")
