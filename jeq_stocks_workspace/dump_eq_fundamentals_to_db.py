@@ -7,6 +7,7 @@ import datetime
 import logging
 from config import Config
 from sqlalchemy import create_engine, Table, MetaData, Date, Integer, Float, String
+from jeq_stocks_workspace.parse_yahoo_fundamentals import run_from_live
 
 logging.basicConfig(
     level=logging.INFO,
@@ -40,30 +41,10 @@ tickers = topix_df["ticker"].unique().tolist()
 with tqdm(total=len(tickers)) as pbar:
     for i, ticker in enumerate(tickers):
         pbar.set_description(f"{i} : {ticker} start processing ....")
-        yahoo_parser = YahooStockParser(ticker, start, end)
-        eq_px_df = yahoo_parser.get_all_stock_dataframe()
-        eq_px_df.to_sql(
-            "eq_prices",
-            engine,
-            index=False,
-            if_exists="append",
-            dtype={
-                "adate": Date,
-                "px_open": Float,
-                "px_high": Float,
-                "px_low": Float,
-                "px_close": Float,
-                "volume": Integer,
-                "px_close_after_adj": Float,
-                "ticker": String,
-            },
-        )
-        topix_eq_px_df_list.append(eq_px_df)
+        run_from_live(ticker,Config.db_uri)
         pbar.update(1)
 
-topix_eq_px_df = pd.concat(topix_eq_px_df_list)
-logging.info(f"Topix eq prices from {start} to {end} {len(topix_eq_px_df)}")
-
-# topix_eq_px_df.to_sql("eq_prices", engine, index=False, if_exists="append",
-#                       dtype={"adate": Date, "px_open": Float, "px_high": Float, "px_low": Float, "px_close": Float,
-#                              "volume": Integer, "px_close_after_adj": Float, "ticker": String})
+# query all fundamentals
+fundamentals_table_name="yahoo_fundamentals"
+fundamdf=pd.read_sql(f"SELECT * FROM `{fundamentals_table_name}`",engine)
+logging.info(f"There are {len(fundamdf)} records in {fundamentals_table_name} table")
